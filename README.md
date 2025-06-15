@@ -31,7 +31,7 @@ Currently working on personal and client Laravel projects to deepen my backend d
 
 ![](https://github-readme-stats.vercel.app/api?username=Numair25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com?user=Numair25&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Numair25&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Numair25&theme=dark&hide_border=false&layout=compact&count_private=true)
 
 ---
 
