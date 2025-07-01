@@ -13,7 +13,7 @@ Assalamu Alaikum!<br>I'm Mohammed Numair, a passionate Web Developer focused on 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Numair25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Numair25&theme=algolia&no-frame=false&no-bg=false&margin-w=10&title=MultiLanguage,Followers,Stars,Commits,Repositories,PullRequest)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Numair25&them=default&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Numair25&limit=5&theme=dark&combine_all_yearly_contributions=true)
