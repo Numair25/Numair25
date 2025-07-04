@@ -1,5 +1,5 @@
 # 💫 About Me:
-Assalamu Alaikum!<br>I'm Mohammed Numair, a passionate Web Developer focused on learning and building with Laravel, PHP, and WordPress.<br>Currently working on personal and client Laravel projects to deepen my backend development skills and explore real-world use cases.
+I'm Mohammed Numair, a passionate Web Developer focused on learning and building with Laravel, PHP, and WordPress.<br>Currently working on personal and client Laravel projects to deepen my backend development skills and explore real-world use cases.
 
 
 ## 🌐 Socials:
