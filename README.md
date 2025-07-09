@@ -1,36 +1,24 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mohammed+Numair;Web+Developer+%7C+Laravel+%7C+WordPress;Love+to+build+cool+stuff+with+code" align="center" />
+<h1 align="center">Hi 👋, I'm Mohammed Numair</h1>
+<h3 align="center">Web Developer | Laravel Enthusiast | WordPress Builder</h3>
 
----
-
-### 🛠 Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,wordpress,mysql,js,apache,git,github,vscode" />
+  <a href="https://linkedin.com/in/mohammed-numair-92551b28a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Numair25" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+  <a href="mailto:mohammednumair3978@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 Projects I'm Working On
+### 🔧 Tech Stack
 
-- 🔧 **Client CRM** in Laravel  
-- 🌐 **WordPress LMS** customization  
-- 🧠 Building a Laravel package for cron tracking
-
----
-
-### 📈 Activity & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Numair25&theme=radical&show_icons=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Numair25&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-### 📩 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/mohammed-numair-92551b28a" target="_blank">LinkedIn</a> • 
-  <a href="https://x.com/Numair25" target="_blank">Twitter</a> • 
-  <a href="mailto:mohammednumair3978@gmail.com">Email</a> • 
-  <a href="https://youtube.com/@numairshaikh25">YouTube</a>
-</p>
-
----
+```bash
+💻 Languages: PHP, JavaScript  
+🧰 Frameworks: Laravel, WordPress  
+🗃️ Databases: MySQL  
+⚙️ Tools: Git, GitHub Actions, Apache
