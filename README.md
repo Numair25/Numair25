@@ -1,73 +1,56 @@
-# 👋 Hi, I'm Mohammed Numair
+# 💫 About Me
 
-I'm a passionate **Web Developer** focused on building real-world applications using **Laravel, PHP, and WordPress**.  
-Currently, I’m working on personal and client-based Laravel projects to strengthen my backend skills and write clean, scalable code.
+Hi, I'm **Mohammed Numair**, a passionate Web Developer focused on building real-world projects with **Laravel, PHP, and WordPress**.  
+I enjoy backend development, clean code, and solving practical problems for clients and personal projects.
 
-I enjoy learning by building, breaking things, and improving them step by step.
-
----
-
-## 🚀 What I’m Working On
-- Laravel CRUD and REST API projects  
-- Authentication systems and role-based access  
-- WordPress custom themes and plugins  
-- Improving database design with MySQL  
-- Writing cleaner backend logic and reusable code  
-
----
-
-## 🛠 Tech Stack
-
-### Backend
-- Laravel  
-- PHP  
-- MySQL  
-
-### Frontend
-- HTML5  
-- CSS3  
-- JavaScript  
-
-### CMS & Tools
-- WordPress  
-- Apache  
-- Git & GitHub  
-- GitHub Actions  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numair25&show_icons=true&theme=dark&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Numair25&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Numair25&layout=compact&theme=dark)
-
----
-
-## 📌 Featured Projects
-_(More coming as I open-source my work)_
-
-- **Laravel Project** – Backend-focused app with authentication and database relations  
-- **WordPress Site** – Custom theme with performance optimizations  
-- **PHP Utilities** – Small tools to practice core PHP concepts  
+Currently, I’m sharpening my Laravel skills by working on production-style applications and exploring best practices.
 
 ---
 
 ## 🌐 Connect With Me
 
-- Instagram: https://instagram.com/mohammed_numair_shaikh  
-- LinkedIn: https://linkedin.com/in/mohammed-numair-92551b28a  
-- X (Twitter): https://x.com/Numair25  
-- YouTube: https://youtube.com/@numairshaikh25  
-- Email: mailto:mohammednumair3978@gmail.com  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammed_numair_shaikh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-numair-92551b28a)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Numair25)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@numairshaikh25)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammednumair3978@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numair25&show_icons=true&theme=dark&hide_border=false&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Numair25&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Numair25&layout=compact&theme=dark&hide_border=false)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Numair25&theme=onedark&no-frame=true&row=1&column=6)
+
+---
+
+## 🔝 Top Contributed Repositories
+
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=Numair25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 ## 👀 Profile Views
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Numair25&color=red)
-
----
-
-⭐ If you like my work, feel free to star a repository or connect with me.
