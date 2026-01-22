@@ -11,6 +11,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@numairshaikh25) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammednumair3978@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=numair25&color=blueviolet&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/numair25?style=social)
+![GitHub stars](https://img.shields.io/github/stars/numair25?style=social)
+
 </div>
 
 ---
@@ -38,6 +42,16 @@ class MohammedNumair extends Developer
     {
         return "Code ☕ Learn 🚀 Build 🔁";
     }
+    
+    public function getStats(): array
+    {
+        return [
+            'commits' => '247+',
+            'pull_requests' => '22',
+            'stars_earned' => '4',
+            'languages' => ['PHP', 'Laravel', 'JavaScript', 'MySQL'],
+        ];
+    }
 }
 ```
 
@@ -49,6 +63,7 @@ class MohammedNumair extends Developer
 ```
 PHP           ████████████████████░   95%
 Laravel       ███████████████████░░   90%
+Blade         ████████████░░░░░░░░   60%
 MySQL         ███████████████░░░░░   75%
 WordPress     ██████████████░░░░░░   70%
 JavaScript    ████████████░░░░░░░░   60%
@@ -61,17 +76,21 @@ JavaScript    ████████████░░░░░░░░   60%
 <td width="50%">
 
 **Backend & Frameworks**
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) Primary Language (65.51%)
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) Expert Level
+- ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) Template Engine (18.22%)
+- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) CMS Development
 
 </td>
 <td width="50%">
 
-**Database & Tools**
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+**Frontend & Tools**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) (2.74%)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) (7.26%)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) (4.24%)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) Database Expert
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Version Control
+- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) CI/CD
 
 </td>
 </tr>
@@ -83,11 +102,26 @@ JavaScript    ████████████░░░░░░░░   60%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=numair25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=numair25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+### 📊 Detailed Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numair25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=numair25&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="Trophies" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=numair25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=numair25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numair25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" width="49%" />
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=numair25&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies" />
+
+### 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=numair25&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="98%" />
+
+### 🔝 Top Contributed Repositories
+
+<img src="https://github-contributor-stats.vercel.app/api?username=numair25&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" width="70%" />
 
 </div>
 
@@ -101,22 +135,54 @@ JavaScript    ████████████░░░░░░░░   60%
 
 ### 💼 Working On
 Building client Laravel projects that solve real business problems
+<br/>
+**247+ Commits | 22 PRs**
 
 </td>
 <td width="33%" align="center">
 
 ### 📚 Learning
 Advanced Laravel patterns, testing strategies, and API best practices
+<br/>
+**2 Repos Contributed**
 
 </td>
 <td width="33%" align="center">
 
 ### 🎯 Goals
 Contributing to open source & building a portfolio of production-ready apps
+<br/>
+**4 Stars Earned ⭐**
 
 </td>
 </tr>
 </table>
+
+---
+
+## 💡 Coding Stats & Activity
+
+<div align="center">
+
+```text
+💬 Programming Languages:
+PHP                      ████████████████░░░   65.51%
+Blade Templates          ████░░░░░░░░░░░░░░   18.22%
+HTML                     ██░░░░░░░░░░░░░░░░    7.26%
+CSS                      █░░░░░░░░░░░░░░░░░    4.24%
+JavaScript               █░░░░░░░░░░░░░░░░░    2.74%
+Python                   █░░░░░░░░░░░░░░░░░    2.03%
+```
+
+```text
+🔥 Current Streak:        Building every day
+📦 Total Contributions:   247+ commits
+🌟 Total Stars:           4
+🔀 Total PRs:             22
+📂 Repositories:          Contributing to 2+ repos
+```
+
+</div>
 
 ---
 
@@ -130,22 +196,50 @@ Contributing to open source & building a portfolio of production-ready apps
 - 📖 Documentation is love for future developers
 - 🔄 Refactor ruthlessly
 - 🤝 Collaborate openly
-
----
-
-## 📊 Contribution Graph
-
-![GitHub Contribution Graph](https://github-contributor-stats.vercel.app/api?username=numair25&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+- ⚡ Performance matters
+- 🔒 Security first
 
 ---
 
 ## 🎓 Currently Exploring
 
+<table>
+<tr>
+<td width="50%">
+
+**Backend Development**
 - 🔐 Advanced Laravel Security Patterns
 - ⚡ Database Query Optimization
 - 🧩 Microservices Architecture
-- 🔄 CI/CD with GitHub Actions
+- 🔄 Event-Driven Architecture
+- 📊 Performance Monitoring
+
+</td>
+<td width="50%">
+
+**DevOps & Tools**
+- 🚀 CI/CD with GitHub Actions
+- 🐳 Docker Containerization
+- ☁️ Cloud Deployment (AWS/DigitalOcean)
 - 📱 RESTful API Design
+- 🧪 Unit & Integration Testing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+*Coming soon! I'm working on some exciting Laravel projects that will be showcased here.*
+
+**What to expect:**
+- 🛒 E-commerce solutions
+- 📊 Admin dashboards
+- 🔐 Authentication systems
+- 📱 API integrations
+- 💼 Business management tools
 
 ---
 
@@ -156,26 +250,35 @@ I'm always interested in:
 - 💡 Innovative web applications
 - 🚀 Challenging backend problems
 - 📝 Technical writing and knowledge sharing
+- 👥 Team projects and pair programming
 
 **Reach out if you want to:**
 - Collaborate on a Laravel project
 - Discuss backend architecture
 - Share development insights
-- Build something awesome together
+- Review code together
+- Build something awesome
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-mohammednumair3978@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammednumair3978@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numair25)
+
+### 🌐 Social Media
+
+[![Instagram](https://img.shields.io/badge/@mohammed__numair__shaikh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mohammed_numair_shaikh) 
+[![X](https://img.shields.io/badge/@Numair25-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Numair25) 
+[![YouTube](https://img.shields.io/badge/@numairshaikh25-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@numairshaikh25)
+
+</div>
 
 ---
 
 <div align="center">
-
-### 📫 Get In Touch
-
-[![Email](https://img.shields.io/badge/Email-mohammednumair3978@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammednumair3978@gmail.com)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=numair25&color=blueviolet&style=flat-square&label=Profile+Views)
-
----
 
 ### ⚡ Quote of the Day
 
@@ -185,9 +288,31 @@ I'm always interested in:
 
 ---
 
-**💙 Thanks for stopping by! Let's build something amazing together.**
+### 🎮 When I'm Not Coding
 
-*Crafted with ☕ and 💻 in India*
+```javascript
+const numair = {
+    hobbies: ["Learning new tech", "Watching tech videos", "Building side projects"],
+    currently_reading: "Clean Code by Robert C. Martin",
+    fun_fact: "I started with WordPress and fell in love with Laravel!",
+    motto: "Every expert was once a beginner"
+};
+```
+
+---
+
+### 📊 This Week's Coding Time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+**💙 Thanks for visiting! Let's build something amazing together.**
+
+*Crafted with ☕ and 💻 in India 🇮🇳*
+
+**Last Updated:** January 2026
 
 </div>
 
@@ -195,4 +320,6 @@ I'm always interested in:
 Badges from: https://shields.io/
 Stats from: https://github.com/anuraghazra/github-readme-stats
 Streak from: https://github.com/DenverCoder1/github-readme-streak-stats
+Trophies from: https://github.com/ryo-ma/github-profile-trophy
+Activity Graph from: https://github.com/Ashutosh00710/github-readme-activity-graph
 -->
