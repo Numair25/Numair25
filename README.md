@@ -6,12 +6,12 @@
 
 *Building robust web solutions, one commit at a time*
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammed_numair_shaikh) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Numair25) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@numairshaikh25) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammednumair3978@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/mohammed_numair_shaikh)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/Numair25)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://youtube.com/@numairshaikh25)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:mohammednumair3978@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=numair25&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=numair25\&color=blueviolet\&style=flat-square\&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/numair25?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/numair25?style=social)
 
@@ -60,6 +60,7 @@ class MohammedNumair extends Developer
 ## 🛠️ Arsenal
 
 ### Core Technologies
+
 ```
 PHP           ████████████████████░   95%
 Laravel       ███████████████████░░   90%
@@ -76,21 +77,23 @@ JavaScript    ████████████░░░░░░░░   60%
 <td width="50%">
 
 **Backend & Frameworks**
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) Primary Language (65.51%)
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) Expert Level
-- ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) Template Engine (18.22%)
-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) CMS Development
+
+* ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white) Primary Language (65.51%)
+* ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white) Expert Level
+* ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square\&logo=laravel\&logoColor=white) Template Engine (18.22%)
+* ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square\&logo=wordpress\&logoColor=white) CMS Development
 
 </td>
 <td width="50%">
 
 **Frontend & Tools**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) (2.74%)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) (7.26%)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) (4.24%)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) Database Expert
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Version Control
-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) CI/CD
+
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black) (2.74%)
+* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white) (7.26%)
+* ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white) (4.24%)
+* ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white) Database Expert
+* ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white) Version Control
+* ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white) CI/CD
 
 </td>
 </tr>
@@ -102,28 +105,19 @@ JavaScript    ████████████░░░░░░░░   60%
 
 <div align="center">
 
-### 📊 Detailed Statistics
+# 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=numair25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=numair25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+![](https://github-readme-stats.shion.dev/api?username=numair25\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=numair25\&theme=dark\&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=numair25\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
-### 💻 Most Used Languages
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numair25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" width="49%" />
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=numair25&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies" />
-
-### 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=numair25&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="98%" />
-
-### 🔝 Top Contributed Repositories
-
-<img src="https://github-contributor-stats.vercel.app/api?username=numair25&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" width="70%" />
+[![](https://komarev.com/ghpvc/?username=numair25\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
@@ -134,24 +128,24 @@ JavaScript    ████████████░░░░░░░░   60%
 <td width="33%" align="center">
 
 ### 💼 Working On
-Building client Laravel projects that solve real business problems
-<br/>
+
+Building client Laravel projects that solve real business problems <br/>
 **247+ Commits | 22 PRs**
 
 </td>
 <td width="33%" align="center">
 
 ### 📚 Learning
-Advanced Laravel patterns, testing strategies, and API best practices
-<br/>
+
+Advanced Laravel patterns, testing strategies, and API best practices <br/>
 **2 Repos Contributed**
 
 </td>
 <td width="33%" align="center">
 
 ### 🎯 Goals
-Contributing to open source & building a portfolio of production-ready apps
-<br/>
+
+Contributing to open source & building a portfolio of production-ready apps <br/>
 **4 Stars Earned ⭐**
 
 </td>
@@ -191,13 +185,14 @@ Python                   █░░░░░░░░░░░░░░░░░ 
 > "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of what to do and what not to do. Professionalism and craftsmanship come from discipline and practice."
 
 **My Principles:**
-- 🎯 Write code that humans can read
-- 🧪 Test early, test often
-- 📖 Documentation is love for future developers
-- 🔄 Refactor ruthlessly
-- 🤝 Collaborate openly
-- ⚡ Performance matters
-- 🔒 Security first
+
+* 🎯 Write code that humans can read
+* 🧪 Test early, test often
+* 📖 Documentation is love for future developers
+* 🔄 Refactor ruthlessly
+* 🤝 Collaborate openly
+* ⚡ Performance matters
+* 🔒 Security first
 
 ---
 
@@ -208,21 +203,23 @@ Python                   █░░░░░░░░░░░░░░░░░ 
 <td width="50%">
 
 **Backend Development**
-- 🔐 Advanced Laravel Security Patterns
-- ⚡ Database Query Optimization
-- 🧩 Microservices Architecture
-- 🔄 Event-Driven Architecture
-- 📊 Performance Monitoring
+
+* 🔐 Advanced Laravel Security Patterns
+* ⚡ Database Query Optimization
+* 🧩 Microservices Architecture
+* 🔄 Event-Driven Architecture
+* 📊 Performance Monitoring
 
 </td>
 <td width="50%">
 
 **DevOps & Tools**
-- 🚀 CI/CD with GitHub Actions
-- 🐳 Docker Containerization
-- ☁️ Cloud Deployment (AWS/DigitalOcean)
-- 📱 RESTful API Design
-- 🧪 Unit & Integration Testing
+
+* 🚀 CI/CD with GitHub Actions
+* 🐳 Docker Containerization
+* ☁️ Cloud Deployment (AWS/DigitalOcean)
+* 📱 RESTful API Design
+* 🧪 Unit & Integration Testing
 
 </td>
 </tr>
@@ -235,29 +232,32 @@ Python                   █░░░░░░░░░░░░░░░░░ 
 *Coming soon! I'm working on some exciting Laravel projects that will be showcased here.*
 
 **What to expect:**
-- 🛒 E-commerce solutions
-- 📊 Admin dashboards
-- 🔐 Authentication systems
-- 📱 API integrations
-- 💼 Business management tools
+
+* 🛒 E-commerce solutions
+* 📊 Admin dashboards
+* 🔐 Authentication systems
+* 📱 API integrations
+* 💼 Business management tools
 
 ---
 
 ## 🤝 Let's Collaborate
 
 I'm always interested in:
-- 🌟 Open source Laravel projects
-- 💡 Innovative web applications
-- 🚀 Challenging backend problems
-- 📝 Technical writing and knowledge sharing
-- 👥 Team projects and pair programming
+
+* 🌟 Open source Laravel projects
+* 💡 Innovative web applications
+* 🚀 Challenging backend problems
+* 📝 Technical writing and knowledge sharing
+* 👥 Team projects and pair programming
 
 **Reach out if you want to:**
-- Collaborate on a Laravel project
-- Discuss backend architecture
-- Share development insights
-- Review code together
-- Build something awesome
+
+* Collaborate on a Laravel project
+* Discuss backend architecture
+* Share development insights
+* Review code together
+* Build something awesome
 
 ---
 
@@ -265,14 +265,14 @@ I'm always interested in:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mohammednumair3978@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammednumair3978@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numair25)
+[![Email](https://img.shields.io/badge/Email-mohammednumair3978@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohammednumair3978@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/numair25)
 
 ### 🌐 Social Media
 
-[![Instagram](https://img.shields.io/badge/@mohammed__numair__shaikh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mohammed_numair_shaikh) 
-[![X](https://img.shields.io/badge/@Numair25-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Numair25) 
-[![YouTube](https://img.shields.io/badge/@numairshaikh25-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@numairshaikh25)
+[![Instagram](https://img.shields.io/badge/@mohammed__numair__shaikh-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/mohammed_numair_shaikh)
+[![X](https://img.shields.io/badge/@Numair25-black.svg?style=for-the-badge\&logo=X\&logoColor=white)](https://x.com/Numair25)
+[![YouTube](https://img.shields.io/badge/@numairshaikh25-%23FF0000.svg?style=for-the-badge\&logo=YouTube\&logoColor=white)](https://youtube.com/@numairshaikh25)
 
 </div>
 
@@ -283,7 +283,9 @@ I'm always interested in:
 ### ⚡ Quote of the Day
 
 <!--STARTS_HERE_QUOTE_README-->
+
 *"First, solve the problem. Then, write the code."* – John Johnson
+
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
@@ -304,6 +306,7 @@ const numair = {
 ### 📊 This Week's Coding Time
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ---
